@@ -1,0 +1,10 @@
+// Second Project mai Add kiya gya hai
+
+1) quill?
+
+
+npm i react-quill
+
+2) dropzone 
+  ek sath three aur four images ko upload karne ke liye.
+
